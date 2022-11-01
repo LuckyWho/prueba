@@ -1,4 +1,4 @@
 # prueba
 
 # Nombre: Lucky
-# nono CONFLICTO LINEA 4
+# nosi conflicto
